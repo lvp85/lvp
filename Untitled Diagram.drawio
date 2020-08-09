@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-09T00:39:22.590Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="INLe2eSyeqiRO1PX10ty" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-09T00:44:54.776Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="q3ej97nNtmAldhBcbEWq" version="13.6.2" type="github">
   <diagram id="ZGMmvDZdMoNJGduGo5os" name="Page-1">
-    <mxGraphModel dx="946" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="830" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -108,16 +108,16 @@
           <mxGeometry x="570" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1ypN2AIa47rlvgvXfcB--73" value="not a leap year" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="285" y="390" width="90" height="20" as="geometry" />
+          <mxGeometry x="280" y="390" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1ypN2AIa47rlvgvXfcB--74" value="leap year" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="530" y="390" width="70" height="20" as="geometry" />
+          <mxGeometry x="510" y="390" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1ypN2AIa47rlvgvXfcB--75" value="Remaing&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="490" width="50" height="20" as="geometry" />
+          <mxGeometry x="600" y="500" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1ypN2AIa47rlvgvXfcB--76" value="Not any remains" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="590" y="500" width="80" height="20" as="geometry" />
+          <mxGeometry x="240" y="490" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
